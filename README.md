@@ -43,5 +43,3 @@ Once you have a complete database, perform the following steps:
 3. Create a .sql file of your queries.
 4. (Optional) Create a Jupyter notebook for the bonus analysis.
 5. Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
-
-**Ensure your repository has regular commits and a thorough README.md file.**
